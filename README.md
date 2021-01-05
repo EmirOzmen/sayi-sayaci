@@ -1,2 +1,2 @@
 # sayi-sayaci
-Ödev #1
+KTÜ Yapay Zeka Kulübü Ödev #1
