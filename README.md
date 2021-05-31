@@ -1,2 +1,2 @@
-# sayi-sayaci
-KTÜ Yapay Zeka Kulübü Ödev #1
+#Homeworks
+Homeworks and projects from my university..
